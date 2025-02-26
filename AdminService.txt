@@ -1,2 +1,4 @@
-adding an admin
-adding new roles to the service
+add and remove users
+change the roles
+manage the database
+closing the connection
